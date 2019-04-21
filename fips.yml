@@ -25,3 +25,5 @@
 #       ...
 exports:
   header-dirs: [ "enet/include" ]
+  modules:
+    enet: .
